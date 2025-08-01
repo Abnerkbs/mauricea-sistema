@@ -12,7 +12,7 @@
   ],
   "author": "Seu Nome <seu.email@exemplo.com>",
   "license": "MIT",
-  "homepage": "https://https://abnerkbs.github.io/mauricea-sistema/",
+  "homepage": "https://abnerkbs.github.io/mauricea-sistema/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SEU_USUARIO/mauricea-sistema.git"
@@ -38,8 +38,6 @@
     "tailwindcss": "^3.3.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
