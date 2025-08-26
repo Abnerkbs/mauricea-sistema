@@ -173,5 +173,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <div align="center">
-  <strong>Feito com ❤️ para Mauricea Alimentos</strong>
+  <strong>Feito por Abner Carlos</strong>
 </div>
